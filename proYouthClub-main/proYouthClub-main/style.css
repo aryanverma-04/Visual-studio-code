@@ -1,0 +1,28 @@
+body{
+    background-color: white;
+}
+.text{
+    font-family: 'Open Sans', sans-serif;
+    font-style: bold;
+    font-size: 1.2em;
+    text-align: center;
+}
+.button{
+    text-align: center;
+}
+.button button{
+    font-family: 'Open Sans', sans-serif;
+    background-color: white;
+    border: 1px solid black;
+    box-shadow: 3px 3px 0px rgba(0,0,0,1);
+    height: 30px;
+    width: 110px;
+    margin-top: 10px;
+}
+.text2{
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    margin-top: 100px;
+    color: grey;
+
+}
